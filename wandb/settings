@@ -1,0 +1,5 @@
+[default]
+entity = techarek-massachusetts-institute-of-technology
+project = charformer-jax
+base_url = https://api.wandb.ai
+
