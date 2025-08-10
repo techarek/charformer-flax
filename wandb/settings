@@ -1,5 +1,5 @@
 [default]
 entity = techarek-massachusetts-institute-of-technology
-project = charformer-jax
+project = charformer-flax
 base_url = https://api.wandb.ai
 

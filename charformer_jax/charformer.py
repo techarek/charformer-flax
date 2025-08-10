@@ -1,3 +1,3 @@
 import wandb
 
-wandb.init(project="charformer-jax")
+wandb.init(project="charformer-flax")

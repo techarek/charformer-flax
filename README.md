@@ -1,2 +1,2 @@
-# charformer-jax
-JAX implementation of Charformer
+# charformer-flax
+Flax implementation of Charformer
